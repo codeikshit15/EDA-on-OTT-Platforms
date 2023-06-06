@@ -1,0 +1,25 @@
+Service,Subscription_Type,No. of Screens,Price (Rs) for a year,No. of offline downloads,Resolution
+Netflix,Netflix (Mobile),1,"1,788",100,SD content
+Netflix,Netflix (Basic),1,"2,388",100,SD content
+Netflix,Netflix (Standard),2,"5,988",100,FHD content
+Netflix,Netflix (Premium),4,"7,788",100,UHD content
+Amazon,Amazon (Monthly),3,"3,588",4,1920x1080p
+Amazon,Amazon (Quarterly),3,"7,188",4,1920x1080p
+Amazon,Amazon (Yearly),3,"1,499",4,1920x1080p
+Amazon,Amazon (Lite),3,999,4,1920x1080p
+Disney,Disney (Free),1,0,10,1080p HD
+Disney,Disney (Premium Yearly),4,"1,499",10,4K (2160p)
+Disney,Disney (Super Yearly),2,899,10,ull HD (1080p)
+Disney,Disney (Premium Monthly),4,"3,588",10,4K (2160p)
+HBO,HBO (With - Ads),3,"8,246",0,HD
+HBO,HBO (Ad - Free),3,"12,369",30,HD + 4K Ultra (Limited)
+HBO,HBO (Ultimate),4,"14,842",100,4K Ultra HD
+Hulu,Hulu,0,"6,595",25,1080p/60fps
+Hulu,Hulu (No Ads),0,"10,000",25,HDR
+Hulu,"Hulu (With Ads) + Live TV, Disney+ (With Ads) and ESPN+ (With Ads)",0,"65,252",25,HDR
+Hulu,"Hulu (No Ads) + Live TV, Disney+ (No Ads) and ESPN+ (With Ads)",0,"78,116",25,HDR
+Hulu,Hulu (Unlimited Screens Add-on),100,"9,000",25,4K Ultra HD
+Paramount,Paramount (Essential),3,"4,122",25,4K/DV/HDR10
+Paramount,Paramount (Premium),3,"8,246",25,"4K, Dolby Vision or HDR10"
+Paramount,Paramount (Essential with SHOWTIME),3,"9,895",25,4K/DV/HDR10
+Paramount,Paramount (Premium with SHOWTIME),3,"9,895",25,"4K, Dolby Vision or HDR10"
