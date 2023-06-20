@@ -16,7 +16,7 @@
 
 ### Breakdown of the dashboard: -
 
-Analysis done for 'end users' for subscribing to the OTT platform of their choice.
+#### Analysis done for 'end users' for subscribing to the OTT platform of their choice.
 ![image](https://github.com/codeikshit15/EDA-on-OTT-Platforms/assets/76237679/7bf79f1f-47ec-4338-b567-35c948dc8222)
 
 Movies & Genres
@@ -42,7 +42,7 @@ Target Audience
 
 
 ********
-Analysis done for 'film production houses' for choosing the correct OTT platform for launching their movies in.
+#### Analysis done for 'film production houses' for choosing the correct OTT platform for launching their movies in.
 ![image](https://github.com/codeikshit15/EDA-on-OTT-Platforms/assets/76237679/9ccd2db9-8688-40bf-b430-e858eaffb1cd)
 
 Popularity of Genres
