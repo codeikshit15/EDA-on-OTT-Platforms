@@ -8,7 +8,7 @@
 ### Power BI App
 ![image](https://github.com/codeikshit15/EDA-on-OTT-Platforms/assets/76237679/641a17df-c7c0-4a4b-be44-90b43bc5df87)
 
-##### Breakdown of the dashboard: -
+#### Breakdown of the dashboard: -
 ![image](https://github.com/codeikshit15/EDA-on-OTT-Platforms/assets/76237679/7bf79f1f-47ec-4338-b567-35c948dc8222)
 
 
